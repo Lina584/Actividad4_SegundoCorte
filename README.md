@@ -449,6 +449,11 @@ Uno de los aspectos más importantes del proyecto fue la integración de todas l
 El resultado final fue un sistema en el que se puede controlar la iluminación simplemente realizando diferentes gestos frente a la cámara, sin necesidad de utilizar botones físicos.
 
 ---
+## Evidencia del montaje
+
+En la siguiente imagen se muestra el montaje físico realizado con el ESP32 y los tres LEDs:
+
+![Montaje del circuito](ImagenCircuito.jpeg)
 
 #  Autora
 
