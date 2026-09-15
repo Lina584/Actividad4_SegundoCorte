@@ -453,7 +453,7 @@ El resultado final fue un sistema en el que se puede controlar la iluminación s
 
 En la siguiente imagen se muestra el montaje físico realizado con el ESP32 y los tres LEDs:
 
-![Montaje del circuito](ImagenCircuito.jpeg)
+![Montaje del circuito](evidencias/Imagen%20Circuito.jpeg) 
 
 #  Autora
 
